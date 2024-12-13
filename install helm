@@ -1,0 +1,5 @@
+how to list the repo -> helm repo list
+how to add a repo -> helm repo add bitnami https://charts.bitnami.com/bitnami
+how to delete a repo -> helm repo remove bitnami
+how to search a chart in a repo -> helm search chartname
+
